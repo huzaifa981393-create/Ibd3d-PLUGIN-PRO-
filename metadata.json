@@ -1,0 +1,7 @@
+{
+  "name": "IBD3D PLUGIN PRO",
+  "description": "A premium cheat code and RGS load file manager for Indian Bikes Driving 3D players, featuring a Gemini-powered AI assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
